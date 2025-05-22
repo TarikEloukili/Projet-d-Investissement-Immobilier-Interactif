@@ -1,7 +1,7 @@
 #  InvestImmo Pro - Guide Complet
 
 InvestImmo Pro est une application web intelligente pour l'analyse d'investissements immobiliers. Elle utilise des modèles de machine learning (scikit-learn) pour prédire l'évolution des prix immobiliers à court, moyen et long terme.
-## 🚀 Features
+##  Features
 
 - Prédictions de prix : Court terme (1 an), moyen terme (5 ans), long terme (20 ans)
 - Carte interactive : Visualisation des zones d'investissement avec Leaflet
@@ -9,7 +9,7 @@ InvestImmo Pro est une application web intelligente pour l'analyse d'investissem
 - Recommandations : Conseils personnalisés basés sur l'IA
 - Interface responsive : Compatible mobile et desktop
 
-## 📷 Screenshot
+##  Screenshot
 
 ![App Screenshot](images/1.png)
 ![App Screenshot](images/2.png)
