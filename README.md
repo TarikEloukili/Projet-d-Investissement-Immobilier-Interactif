@@ -15,7 +15,7 @@ InvestImmo Pro est une application web intelligente pour l'analyse d'investissem
 ![App Screenshot](images/2.png)
 ![App Screenshot](images/3.png)
 
-## 🛠 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/TarikEloukili/Projet-d-Investissement-Immobilier-Interactif.git
